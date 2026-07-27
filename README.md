@@ -1,13 +1,15 @@
-# Certificates
-Professional Certifications
-This repository contains my professional certifications.
+# 📜 Professional Certifications
 
-## Completed
+Welcome to my certification repository. This repository contains the professional certifications I have earned while developing my skills in Business Intelligence, Data Analytics, and Software Engineering.
 
-- Microsoft Excel
+## ✅ Completed Certifications
 
-## In Progress
+| Certification | Platform | Status |
+|---------------|----------|--------|
+| Microsoft Excel | Udemy | ✅ Completed |
+
+## 🚀 Planned Certifications
 
 - SQL
-- Power BI
-- Python
+- Microsoft Power BI
+- Python for Data Analysis
