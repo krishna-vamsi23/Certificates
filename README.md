@@ -7,9 +7,5 @@ Welcome to my certification repository. This repository contains the professiona
 | Certification | Platform | Status |
 |---------------|----------|--------|
 | Microsoft Excel | Udemy | ✅ Completed |
+|PEGA CSSA | Pegasystems | ✅ Completed 
 
-## 🚀 Planned Certifications
-
-- SQL
-- Microsoft Power BI
-- Python for Data Analysis
