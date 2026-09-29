@@ -8,5 +8,6 @@ Welcome to my certification repository. This repository contains the professiona
 |---------------|----------|--------|
 | Microsoft Excel | Udemy | ✅ Completed |
 | Data Analyst | Udemy | ✅ Completed |
+|PEGA CSA | Pegasystems | ✅ Completed 
 |PEGA CSSA | Pegasystems | ✅ Completed 
 
